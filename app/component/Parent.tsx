@@ -7,7 +7,7 @@ const Parent: React.FC = () => {
     const profession = "Software Developer";
 
     return (
-        <div className="p-6 text-center">
+        <div className="p-6 text-center ">
             <h1 className="text-3xl font-bold mb-4">Parent Component</h1>
             <p className="text-lg mb-4">
                 Passing data from the parent component to the child component.
